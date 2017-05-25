@@ -102,3 +102,6 @@ ENV/
 
 # dump
 dump/
+
+# TestEditor
+.idea
